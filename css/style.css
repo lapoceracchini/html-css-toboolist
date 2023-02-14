@@ -24,3 +24,21 @@ main{
   text-align: left;
   padding: 5% 15% 12.5%;
 }
+
+button{
+  padding: 8px 12px 8px 12px;
+}
+
+.button1{
+  background-color: rgb(69, 171, 234);
+  border-radius: 7px;
+  color: white;
+}
+
+.button2{
+  margin-left: 5px;
+  border-radius: 7px;
+  color: rgb(185, 184, 184);
+  background-color: white;
+  border-color: rgb(179, 177, 177);
+}
