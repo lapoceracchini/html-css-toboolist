@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.logo1{
+  vertical-align: middle;
+  padding-bottom: 12px;
+  
+}
+
+.Toboolist{
+  font-size: 43px;
+  font-family: sans-serif;
+}
+
+main{
+  text-align: left;
+  padding: 5% 15% 12.5%;
+}
