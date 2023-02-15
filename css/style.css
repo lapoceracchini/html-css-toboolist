@@ -42,3 +42,26 @@ button{
   background-color: white;
   border-color: rgb(179, 177, 177);
 }
+
+ul{
+  margin-top: 40px;
+  list-style-type: none;
+}
+
+h2{
+  padding-bottom: 10px;
+  font-family: sans-serif;
+}
+
+.triangolo{
+  font-size: small;
+  
+}
+  
+.si{
+  color: green;
+  background-color: white;
+  border-color: green;
+  border-radius: 50%;
+  border: 1px solid;
+}
